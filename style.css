@@ -1,0 +1,20 @@
+.btn.btn-default {
+    margin-top: 16px;
+}
+
+.glyphicon.glyphicon-search {
+    font-size: 32px;
+}
+
+.panel-body  {
+    color: black;
+}
+
+#searchResult {
+
+    /*margin-left: 100px;
+    margin-right: 100px;*/
+    margin-top: 25px;
+    width: 85%;
+
+}
